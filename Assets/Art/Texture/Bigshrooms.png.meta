@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 0e8ea50cc8242914aa28ac98415c984e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2126763149615025911
+    second: Bigshrooms_0
+  - first:
+      213: -1929899048891116521
+    second: Bigshrooms_1
+  - first:
+      213: 874420309887637460
+    second: Bigshrooms_2
+  - first:
+      213: -4923810051329439411
+    second: Bigshrooms_3
+  - first:
+      213: 3057670009209061745
+    second: Bigshrooms_4
+  - first:
+      213: -8756449350704073853
+    second: Bigshrooms_5
+  - first:
+      213: 4413469225219420175
+    second: Bigshrooms_6
+  - first:
+      213: 1895351120572578124
+    second: Bigshrooms_7
+  - first:
+      213: 7311082426122362185
+    second: Bigshrooms_8
+  - first:
+      213: 8539078759193766167
+    second: Bigshrooms_9
+  - first:
+      213: 2381392360685779172
+    second: Bigshrooms_10
+  - first:
+      213: -5855687822377853703
+    second: Bigshrooms_11
+  - first:
+      213: 4952828499832029016
+    second: Bigshrooms_12
+  - first:
+      213: 1912506972346326201
+    second: Bigshrooms_13
+  - first:
+      213: 8024594747339131331
+    second: Bigshrooms_14
+  - first:
+      213: 1072198903787672233
+    second: Bigshrooms_15
+  - first:
+      213: 7696222050569695754
+    second: Bigshrooms_16
+  - first:
+      213: 6224787724314368499
+    second: Bigshrooms_17
+  - first:
+      213: 6103417336624683504
+    second: Bigshrooms_18
+  - first:
+      213: 4914441882995070846
+    second: Bigshrooms_19
+  - first:
+      213: 8781002651128871823
+    second: Bigshrooms_20
+  - first:
+      213: 5772021507746073966
+    second: Bigshrooms_21
+  - first:
+      213: 6796197402610002197
+    second: Bigshrooms_22
+  - first:
+      213: 1944385208232037107
+    second: Bigshrooms_23
+  - first:
+      213: 3377498398193442650
+    second: Bigshrooms_24
+  - first:
+      213: -776639712615686642
+    second: Bigshrooms_25
+  - first:
+      213: 1904220763963653079
+    second: Bigshrooms_26
+  - first:
+      213: 5688327012413033241
+    second: Bigshrooms_27
+  - first:
+      213: -2656737696774969060
+    second: Bigshrooms_28
+  - first:
+      213: 2553003658517667579
+    second: Bigshrooms_29
+  - first:
+      213: 1052477391110390717
+    second: Bigshrooms_30
+  - first:
+      213: -8289610510407399515
+    second: Bigshrooms_31
+  - first:
+      213: 4482556002246809265
+    second: Bigshrooms_32
+  - first:
+      213: -141375159771141662
+    second: Bigshrooms_33
+  - first:
+      213: 2068212920739756894
+    second: Bigshrooms_34
+  - first:
+      213: -8258472850077856110
+    second: Bigshrooms_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bigshrooms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9013ec9fe283c72e0800000000000000
+      internalID: -2126763149615025911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141b724a0f9735e0800000000000000
+      internalID: -1929899048891116521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75d3393a0922c00800000000000000
+      internalID: 874420309887637460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49c20588dc1babb0800000000000000
+      internalID: -4923810051329439411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17185435ca60f6a20800000000000000
+      internalID: 3057670009209061745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383759d85b7da7680800000000000000
+      internalID: -8756449350704073853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -11}
+        - {x: -11, y: -4}
+        - {x: 11, y: -4}
+        - {x: 11, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00725470eacf3d30800000000000000
+      internalID: 4413469225219420175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -11}
+        - {x: -11, y: -5}
+        - {x: 11, y: -5}
+        - {x: 11, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49fd5a5dc3ad4a10800000000000000
+      internalID: 1895351120572578124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ddf941bbe267560800000000000000
+      internalID: 7311082426122362185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -11}
+        - {x: -5, y: -8}
+        - {x: -5, y: -4}
+        - {x: 2, y: -2}
+        - {x: 4, y: 9}
+        - {x: 16, y: 9}
+        - {x: 16, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719e3d6b3e6e08670800000000000000
+      internalID: 8539078759193766167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: -16, y: -13}
+        - {x: -16, y: 9}
+        - {x: -2, y: 9}
+        - {x: -2, y: -1}
+        - {x: 7, y: -4}
+        - {x: 7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e831812cb76c0120800000000000000
+      internalID: 2381392360685779172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -9}
+        - {x: -5, y: -4}
+        - {x: 3, y: 0}
+        - {x: 4, y: 8}
+        - {x: 16, y: 9}
+        - {x: 16, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc569743fa6cbea0800000000000000
+      internalID: -5855687822377853703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -13}
+        - {x: -16, y: 8}
+        - {x: 6, y: 2}
+        - {x: 9, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f3be5874bfbb440800000000000000
+      internalID: 4952828499832029016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -11}
+        - {x: -11, y: -7}
+        - {x: -2, y: -3}
+        - {x: 4, y: 10}
+        - {x: 16, y: 12}
+        - {x: 16, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc192d55f69a8a10800000000000000
+      internalID: 1912506972346326201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -13}
+        - {x: -16, y: 10}
+        - {x: 5, y: 1}
+        - {x: 9, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c94d9518661d5f60800000000000000
+      internalID: 8024594747339131331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -10}
+        - {x: -6, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d3d4e83731ee00800000000000000
+      internalID: 1072198903787672233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -10}
+        - {x: -8, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a023cbcbd297eca60800000000000000
+      internalID: 7696222050569695754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -13}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f958f57473e26650800000000000000
+      internalID: 6224787724314368499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99979fab1b3b450800000000000000
+      internalID: 6103417336624683504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771931dada933440800000000000000
+      internalID: 4914441882995070846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bbc4033636cd970800000000000000
+      internalID: 8781002651128871823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d8e15daf65a1050800000000000000
+      internalID: 5772021507746073966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196006a781f05e50800000000000000
+      internalID: 6796197402610002197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac13b8b08dbfa10800000000000000
+      internalID: 1944385208232037107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -11}
+        - {x: -10, y: -6}
+        - {x: 12, y: -6}
+        - {x: 12, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f55cdf5e84fde20800000000000000
+      internalID: 3377498398193442650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -11}
+        - {x: -11, y: -5}
+        - {x: 12, y: -5}
+        - {x: 12, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9413db42d835f0800000000000000
+      internalID: -776639712615686642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbf9f122b62d6a10800000000000000
+      internalID: 1904220763963653079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -11}
+        - {x: -6, y: -7}
+        - {x: -6, y: -5}
+        - {x: 2, y: -2}
+        - {x: 3, y: 8}
+        - {x: 16, y: 9}
+        - {x: 16, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b432d974ff0fe40800000000000000
+      internalID: 5688327012413033241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 8}
+        - {x: -1, y: 8}
+        - {x: 0, y: -1}
+        - {x: 7, y: -5}
+        - {x: 7, y: -9}
+        - {x: -1, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a65a042f512bd0800000000000000
+      internalID: -2656737696774969060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -10}
+        - {x: -6, y: -8}
+        - {x: -3, y: -4}
+        - {x: 2, y: -1}
+        - {x: 4, y: 9}
+        - {x: 16, y: 9}
+        - {x: 16, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed7301d471e6320800000000000000
+      internalID: 2553003658517667579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 8}
+        - {x: 7, y: -3}
+        - {x: 7, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3c3476c962b9e00800000000000000
+      internalID: 1052477391110390717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -11}
+        - {x: 3, y: 6}
+        - {x: 16, y: 6}
+        - {x: 16, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a782d8392365fc80800000000000000
+      internalID: -8289610510407399515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -11}
+        - {x: -16, y: 5}
+        - {x: 6, y: 1}
+        - {x: 8, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b657b73fec353e30800000000000000
+      internalID: 4482556002246809265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -10}
+        - {x: -4, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e6cd8a0cb90ef0800000000000000
+      internalID: -141375159771141662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -11}
+        - {x: -7, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf09c81b4c3bc10800000000000000
+      internalID: 2068212920739756894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigshrooms_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: -13}
+        - {x: -14, y: -4}
+        - {x: 15, y: -4}
+        - {x: 15, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec6e7b2b2046d80800000000000000
+      internalID: -8258472850077856110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

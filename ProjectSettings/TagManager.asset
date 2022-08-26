@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - shit
+  - baby
+  - roomba
+  - trash
+  - crib
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Items
+  - Water
+  - UI
+  - Borders
+  - PickUp
+  - Bottoms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 2448146721
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Borders
+    uniqueID: 1086793035
+    locked: 0
+  - name: Foliage
+    uniqueID: 1281898883
+    locked: 0
+  - name: Ground constructs
+    uniqueID: 2086734971
+    locked: 0
+  - name: Shadow
+    uniqueID: 3068664855
+    locked: 0
+  - name: Bottoms
+    uniqueID: 1277260645
+    locked: 0
+  - name: Agent
+    uniqueID: 3577920033
+    locked: 0
+  - name: UI
+    uniqueID: 1807591749
+    locked: 0
